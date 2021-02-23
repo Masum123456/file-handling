@@ -1,0 +1,8 @@
+First Name= masum
+Last Name= bepari
+User Name=masum
+Email= masum333@gmail.com
+Password=2345
+Recovery Email=masum@gmail.com
+Gender= Male
+
